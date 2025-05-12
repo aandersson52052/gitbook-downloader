@@ -1,0 +1,5 @@
+[project]
+name = "gitbook-downloader"
+version = "0.1.0"
+description = "Download Gitbook documentation of any site as MD files to use with LLMs"
+requires-python = ">=3.10"
